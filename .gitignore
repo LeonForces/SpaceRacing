@@ -1,0 +1,64 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+[Ll]ightmapSnapshot/
+Assets/AssetStoreTools*
+sysinfo.txt
+
+# Generated caches and databases
+*.pidb
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE and tooling
+.vs/
+.idea/
+*.sln.iml
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.VC.opendb
+*.VisualState.xml
+*.vsconfig
+
+# Code coverage and analytics
+Packages/com.unity.testtools.codecoverage/
+crashlytics-build.properties
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+*.dsym
+*.exe
+*.msi
+*.dmg
+
+# Android/Gradle
+.gradle/
+.gradle/**
+
+# Crash reports
+*.stackdump
+
+# OS junk
+.DS_Store
+Thumbs.db
+.vscode
